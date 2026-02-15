@@ -1,12 +1,12 @@
 # stock-investment-analyzer
 
-Analyze stocks vs bank interest with risk. assesment
-A python tool that analyzes stocks over 10 years and compares returns agains bank interest rates. Helps investror to make a desition by calculating returs, tracking dividents and assesing risk through volatility analysis.
+Analyze stocks vs bank interest with risk. assessment
+A python tool that analyzes stocks over 10 years and compares returns against bank interest rates. Helps investor to make a decision by calculating returns, tracking dividends and assessing risk through volatility analysis.
 
 # Features
 
 - compare multiple stocks 
-- 10 years historicakl analysis
+- 10 years historical analysis
 - Dividend tracking and calculations
 - Volatility-based risk assessment (Low/Medium/High)
 - Visual price comparison charts
